@@ -7,6 +7,7 @@ Website: https://www.get-plume.com
 
 ## Screenshot
 
+https://github.com/nuttyartist/plume-public/assets/16375940/efb72732-a54c-411e-9436-c007d6283d96
 
 ## Is Plume Open Source?
 
