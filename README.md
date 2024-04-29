@@ -1,6 +1,6 @@
 # Plume
 
-[![](https://dcbadge.vercel.app/api/server/D3KeTqeq6A)](https://discord.gg/D3KeTqeq6A)
+[![Discord](https://dcbadge.vercel.app/api/server/D3KeTqeq6A?style=flat)](https://discord.gg/D3KeTqeq6A)
 
 Write beautifully. Effortlessly.  
 Website: https://www.get-plume.com
