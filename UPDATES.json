@@ -1,0 +1,22 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/PlumeSetup_0.9.0.exe",
+      "latest-version": "0.9.0",
+      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/PlumeSetup_0.9.0.exe",
+      "changelog": ""
+    },
+    "osx": {
+      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume.0.9.0.dmg",
+      "latest-version": "0.9.0",
+      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume.0.9.0.dmg",
+      "changelog": ""
+    },
+    "linux": {
+      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume_0.9.0-Qt6.7.0-x86_64.AppImage",
+      "latest-version": "0.9.0",
+      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume_0.9.0-Qt6.7.0-x86_64.AppImage",
+      "changelog": ""
+    }
+  }
+}
