@@ -1,7 +1,7 @@
 {
   "purchase_pro_url": "https://www.get-plume.com/pricing",
-  "purchaseApiBase": "https://api.lemonsqueezy.com",
-  "activateLicenseEndpoint": "/v1/licenses/activate",
-  "validateLicenseEndpoint": "/v1/licenses/validate",
-  "deactivateLicenseEndpoint": "/v1/licenses/deactivate"
+  "purchaseApiBase": "https://rubymamistvalove.com/api",
+  "activateLicenseEndpoint": "/activateLicensePlume",
+  "validateLicenseEndpoint": "/validateLicensePlume",
+  "deactivateLicenseEndpoint": "/none"
 }
