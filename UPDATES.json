@@ -1,22 +1,22 @@
 {
   "updates": {
     "windows": {
-      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/PlumeSetup_0.9.0.exe",
-      "latest-version": "0.9.0",
-      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/PlumeSetup_0.9.0.exe",
-      "changelog": ""
+      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.1/PlumeSetup_0.9.1.exe",
+      "latest-version": "0.9.1",
+      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.1/PlumeSetup_0.9.1.exe",
+      "changelog": "<style>div{color:#000}kbd{color:#24292f;background-color:#f6f8fa}ul{margin-left:-2em}</style><div><p>A new release with some bug fixes and improvements:</p><ul><li>Fix Drop Cap getting too big when resizing</li><li>Disable folders pane animation for now (some users reported jittery animation)</li></ul><p>Join our<span><a href='https://discord.com/invite/D3KeTqeq6A'>Discord</a></span>for discussions, and feel free to<span><a href='mailto:contact@get-plume.com'>email us</a></span>. We love to hear from our users.</p></div><br>"
     },
     "osx": {
-      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume.0.9.0.dmg",
-      "latest-version": "0.9.0",
-      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume.0.9.0.dmg",
-      "changelog": ""
+      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.1/Plume.0.9.1.dmg",
+      "latest-version": "0.9.1",
+      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.1/Plume.0.9.1.dmg",
+      "changelog": "<style>div{color:#000}kbd{color:#24292f;background-color:#f6f8fa}ul{margin-left:-2em}</style><div><p>A new release with some bug fixes and improvements:</p><ul><li>Fix Drop Cap getting too big when resizing</li><li>Disable folders pane animation for now (some users reported jittery animation)</li></ul><p>Join our<span><a href='https://discord.com/invite/D3KeTqeq6A'>Discord</a></span>for discussions, and feel free to<span><a href='mailto:contact@get-plume.com'>email us</a></span>. We love to hear from our users.</p></div><br>"
     },
     "linux": {
-      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume_0.9.0-Qt6.7.0-x86_64.AppImage",
-      "latest-version": "0.9.0",
-      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.0/Plume_0.9.0-Qt6.7.0-x86_64.AppImage",
-      "changelog": ""
+      "open-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.1/Plume_0.9.1-Qt6.7.0-x86_64.AppImage",
+      "latest-version": "0.9.1",
+      "download-url": "https://github.com/nuttyartist/plume-public/releases/download/v0.9.1/Plume_0.9.1-Qt6.7.0-x86_64.AppImage",
+      "changelog": "<style>div{color:#000}kbd{color:#24292f;background-color:#f6f8fa}ul{margin-left:-2em}</style><div><p>A new release with some bug fixes and improvements:</p><ul><li>Fix Drop Cap getting too big when resizing</li><li>Disable folders pane animation for now (some users reported jittery animation)</li></ul><p>Join our<span><a href='https://discord.com/invite/D3KeTqeq6A'>Discord</a></span>for discussions, and feel free to<span><a href='mailto:contact@get-plume.com'>email us</a></span>. We love to hear from our users.</p></div><br>"
     }
   }
 }
